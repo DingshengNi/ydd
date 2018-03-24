@@ -1,0 +1,80 @@
+
+ /* 初始化 */
+body,ul,li{
+    padding:0px;
+    margin:0px;
+}
+img{
+    vertical-align: top;
+    display:block;
+}
+
+/* banner */
+.banner{
+    width:6.4rem;
+}
+.banner img{
+    width:6.4rem;
+    display: block;
+}
+
+/* content */
+/* 自如客专享 */
+.zrkzx .title{
+    overflow:hidden;
+}
+.zrkzx .title img{
+    float:left;
+    margin-top:.386473rem;
+    width:.092754rem;
+    height: .278261rem;
+}
+.zrkzx .title div{
+    font-size: .278261rem;
+    line-height: .278261rem;
+    float:left;
+    margin-top:.386473rem;
+    margin-left:.185507rem;
+    font-family: PingFangSC-Medium;
+    color: #444444;
+    letter-spacing: 0; 
+    font-weight: bolder;
+}
+.zrkzx .title p{
+    font-size: .185507rem;
+    clear: both;
+    line-height: .185507rem;
+    display: inline-block;
+    letter-spacing: .007729rem;
+    margin-left:.278261rem;
+    float: left;
+    color:#bebebe;
+}
+.zrkzx .main{
+    overflow: hidden;
+    padding-bottom:0.7111rem;
+    border-bottom:1px solid #000;
+}
+.zrkzx .main ul{
+    list-style-type: none;
+    clear: both;
+}
+.zrkzx .main li{
+    width:1.45314rem;
+    float:left;
+    text-align: center;
+}
+.zrkzx .main li img{
+    width:.680193rem;
+    height:.680193rem;
+    margin:.401932rem .386473rem .154589rem .386473rem;
+}
+.zrkzx .main li span{
+    font-size: 0.1855rem;
+    color: #777777;
+    letter-spacing: 0;
+    line-height: 0.201rem;
+    float:left;
+    text-align: center;
+    width:1.4531rem;
+}
